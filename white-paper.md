@@ -1,2 +1,1 @@
-# White Paper
-
+# White paper
