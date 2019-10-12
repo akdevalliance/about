@@ -1,7 +1,4 @@
-# WHITEPAPER
-
-# 2019
-
+# WHITEPAPER 2019
 
 ## Introduction
 
@@ -24,17 +21,17 @@ Developers will be referred to as software engineers, engineers, and programmers
 _Alaska does not currently have the required workforce to fill the existing gaps in the
 workforce, support local technology development, or scale a high growth
 technology startup._
-● Newer engineers have very few career prospects.
-● Seasoned engineers either leave Alaska or work remotely because there are
+- Newer engineers have very few career prospects.
+- Seasoned engineers either leave Alaska or work remotely because there are
 few jobs commensurate with experience or industry wages.
-● Engineers working remotely from Alaska offer valuable skill sets and
+- Engineers working remotely from Alaska offer valuable skill sets and
 experience that are in-demand, but haven’t found a way to participate in the
 community.
-● Major corporations in Telco and Oil & Gas are outsourcing jobs to the lower 48
+- Major corporations in Telco and Oil & Gas are outsourcing jobs to the lower 48
 because they can’t find the workforce locally.
-● State and local government cannot fill senior developers positions
+- State and local government cannot fill senior developers positions
 Without a cohesive programming community, the technology workforce in Alaska
-will continue to struggle. ​In order to help drive engineering in Alaska we are building
+will continue to struggle. In order to help drive engineering in Alaska we are building
 a community that serves as a hub for programmers, engages with students of all
 levels, and provides ongoing training and professional development.
 
@@ -71,9 +68,7 @@ Part 3. Action Plan - https://akdevalliance.com/plan
 6. Solutions the Alaska Developer’s Alliance Provides
 
 
-## 1. Brief summary of programming community in
-
-## Alaska
+## 1. Brief summary of programming community in Alaska
 
 Before the Alaska Developers Alliance was founded, 6 months of research was
 conducted in order to find out why a programmer community did not exist in 2018.
@@ -82,7 +77,7 @@ to over 100 developers, engaging with UAA, UAF, previous and current meetup
 organizers, and an organization looking to start a code school in Alaska. There were
 several glaring takeaways from this research that serve as the foundation of this
 white paper.
-A. **Founder burnout:​** Developer organizations run by a single person lead to
+A. **Founder burnout:** Developer organizations run by a single person lead to
 burnout of meetup organizers in an average of 15 months from the time the
 group was formed. When organizers were asked why they started a group the
 common answer was that "it didn't exist so I created one”. When asked why
@@ -90,18 +85,18 @@ the group disbanded, 100% of organizers referenced a life or work event that
 would not afford them the time to continue with the group. Within 7 years,
 there have been 3-4 programmer meetup groups that have been formed and
 disbanded.
-B. **Lack of awareness:​** When programmers were asked why they didn't
+B. **Lack of awareness:** When programmers were asked why they didn't
 participate in the community, the most common answer was that they were
 unaware that a programming community existed or that there were enough
 programmers in the state.
-C. **Too niche:​** Specificity of groups lead to less overall participation thus groups
+C. **Too niche:** Specificity of groups lead to less overall participation thus groups
 never hit a critical mass of participation to keep groups moving forward. For
 example, a web developer may not attend a game developer meetup.
-D. **Lack of engagement with students:​** Very little or no engagement with the
+D. **Lack of engagement with students:** Very little or no engagement with the
 University of Alaska to develop a pipeline of members.
-E. **Lack of engagement with major employers: ​** Very little or no engagement
+E. **Lack of engagement with major employers:** Very little or no engagement
 with State of Alaska, federal organizations, or private industry employers.
-F. **Lack of incentive for attendance:​** 9/10 programmer meetups in Seattle
+F. **Lack of incentive for attendance:** 9/10 programmer meetups in Seattle
 provided specific learning topics as opposed to social meetups for networking.
 Over 70% of those meetups provided food and other forms of participation
 benefits. Benefits were provided by potential employers, technology
@@ -143,13 +138,13 @@ experiment and play with programming on their own, however, when looking into
 higher education, programmers looking at local job prospects after college become
 discouraged. The average programmer salary in Alaska is somewhere between
 $75,000 and $90,000 including the MOST senior programmers according to
-Glassdoor.com​,​ ​CareerExplorer.com​, and​ ​PayScale.com​.
-According to​ ​Coursereport.com​ the average programmer salary in California or New
+Glassdoor.com, CareerExplorer.com, and PayScale.com.
+According to Coursereport.com the average programmer salary in California or New
 York after a bootcamp is $71,000 as of 2017. After conferring with recruiters, Seattle is
 now $75,000-$85,000. In Seattle, Level 1 programmers from formal education such
 as Computer Science(CS) are earning $90,000+ in their first year.
-Anchorage's Cost of living index is 1.28, while Seattle's is 1.49 (​PayScale.com​). Using
-PayScale.com's​ average programmer salary for Alaska ($75,000) and
+Anchorage's Cost of living index is 1.28, while Seattle's is 1.49 (PayScale.com). Using
+PayScale.com's average programmer salary for Alaska ($75,000) and
 Seattle($98,092), and adjusting for cost of living, a programmer would still make
 about 1-2% more living in Seattle. However, this does not account for the increased
 top-end income. Top-end income for a level 5 programmer in Seattle can be
@@ -159,20 +154,21 @@ level 4 developer at Snapchat is $190,000 + bonus and stock options.
 
 ### Programmers have a disincentive to stay in Alaska
 
-#### If you live in Alaska, how satisfied are you with job opportunities
-
-#### for software developers living in Alaska?
+#### If you live in Alaska, how satisfied are you with job opportunities for software developers living in Alaska?
 
 1 is very dissatisfied, 5 is very satisfied.
+
 In a survey of 48 programmers living in Alaska, 74% stated that they're unhappy with
 the programming position they currently hold. We are seeing many programmers
 leave the state for higher education and better job opportunities because of
 difficulty getting jobs, getting a fulfilling job, or getting a job that allows for
 continued career development relevant outside Alaska.
+
 According to the Anchorage School District(ASD), the two CS programs offered at
 Dimond and Service are full while at the same time the Computer Science and
 Engineering(CS&E) Advisory Board has in recent years seen an uptick in enrollment
 followed by a leveling out in 2019.
+
 UAA and ASD are currently working to develop a track by which high school CS
 students can transfer their credits to UAA and continue into the CS program.
 Currently the largest hurdle is that students taking CS courses are not always aware
@@ -180,13 +176,10 @@ of the math requirements of a CS degree, thus when entering college they are
 behind in the math requirements. This has lead to CS "bleeding" programmers into
 other programming related degrees with lower math requirements such as
 Management Information Systems (MIS).
+
 While UAA offers high quality and comprehensive CS and MIS degrees, the university
 suffers from a longstanding reputation of not being a high level school. Much of this
-reputation came from the absorption of Alaska Community College into UAA and
-
-
-was further reiterated with the teaching department losing its accreditation in 2018.
-Students look to other universities and will even specifically go to UAF to avoid UAA.
+reputation came from the absorption of Alaska Community College into UAA and was further reiterated with the teaching department losing its accreditation in 2018.Students look to other universities and will even specifically go to UAF to avoid UAA.
 While some of this is a matter of geography, this reputation is a catalyst for students
 seeking education elsewhere. This all contributes to the bright students leaving
 Alaska for education, also known as the "brain drain". Interestingly though, UAA, has
@@ -210,17 +203,15 @@ however has the downside of glossing over the greater CS fundamentals - data
 structures, algorithms, etc that increases a programmers total capability.
 Management Information Systems(MIS) has an emphasis on business analysis,
 communication, and web development, thus having lower productivity than a
-
-
 bootcamp, but higher capacity, and tends to produce management track
 developers. Computer science focuses mostly on fundamentals and theory at the
 expense of teaching software engineering, thus graduates have the highest capacity
 of either MIS or Codeschool graduates but with a longer on-ramp to productivity. A
-Key finding from ​coursereport.com​ showed that the highest salaries from boot
+Key finding from coursereport.com showed that the highest salaries from boot
 camp participants were those who had studied engineering and mathematics
 previously.
 **Alaskan companies want level 3-4 programmers but are not willing or don’t have
-the capacity to hire and train level 1-2. ​** While getting a first programming job is the
+the capacity to hire and train level 1-2.** While getting a first programming job is the
 most difficult, Alaskan companies cannot find level 3-4 developers to fill positions.
 Making matters worse, state and federal contracts are increasingly stipulating mid
 and senior level developers meaning developer shops have few opportunities to
@@ -229,9 +220,9 @@ to get developers from level 1-2 to 3-4.
 According to a Seattle based recruiter, high growth startups under 200 employees
 would be looking almost exclusively level 3+ engineers as they would not have the
 manpower to mentor lower level developers into their roles. This underscores a
-fundamental problem in Alaska. ​ **The only continuing education for programmers
+fundamental problem in Alaska. **The only continuing education for programmers
 in Alaska is a graduate level degree in Computer Science from the University of
-Alaska Fairbanks.​** For most, getting a non-specialized 2 year degree in computer
+Alaska Fairbanks.** For most, getting a non-specialized 2 year degree in computer
 science is too large a time and financial investment while getting established and
 does not necessarily fill the gap in the workforce.
 
@@ -262,7 +253,7 @@ survey and will have closer to 50.
 Starting with basic statistics on employment, it was quite surprising to see that less
 than half of those surveyed responded that they were employed as programmers.
 Many of these programmers report that they're under employed or have a hard time
-getting consistent work. ​ **This is consistent with the mantra "The hardest job to
+getting consistent work. **This is consistent with the mantra "The hardest job to
 get as a programmer is your first one."**
 
 #### How long did it take you to find your first developer job in Alaska?
@@ -308,13 +299,10 @@ The top 2 answers were:
 
 Top 2 answers
 
-
 1. Better Job opportunities and more software employers
 2. Making the community more visible and active ( meetups / peer talks )
 
 #### Can we email you?
-
-##### X
 
 Over 94% of those that took the survey said they would like to be contacted
 regarding future events and updates on the Developers Alliance. This shows an
@@ -352,8 +340,6 @@ The Dev Alliance acts as a flywheel for the technology workforce by:
 
 1. Engaging with learners at the earliest possible time
 2. Fostering knowledge sharing and career possibilities with Level 0’s and 1’s
-
-
 3. Working with accelerators and employers to understand the technology
     needs for programmers and bridging the gap to education
 4. Providing continuing education via talks, bootcamps, and scholarships to
@@ -367,21 +353,32 @@ The Alaska Developers Alliance is building a workforce for the future. By focusi
 developers first, it will create the momentum needed for a thriving, active,
 community that developers will aspire to be a part of and enable the next
 generation of innovation in Alaska. See the action plan at
-https://akdevalliance.com/plan​ for how we’re moving into the future.
+https://akdevalliance.com/plan for how we’re moving into the future.
 
 #### Endorsed by the founding board of the Alaska Dev Alliance
 
 Jeff Levin
+
 Vincent Castro
+
 Arsh Chauhan
+
 Isaac Vanderburg
+
 Conroy Whitney
+
 Adam Link
+
 Jeremy Mayfield
+
 Lincoln Larson
+
 Matt Perry
+
 Kelly Larson
+
 Erik Talvi
+
 
 #### Citations
 
