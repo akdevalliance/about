@@ -1,30 +1,85 @@
 # Contributor Guidelines
 
-This is the guidline for contributing to the Alaska Developers Alliance repository. Markdown documents are used for generating our static Gatsby JS site. Our preferred markdown linter is [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) by David Anson which has a convenient VSCode plugin.
+## TOC
+<!-- vscode-markdown-toc -->
+1. [Tools](#Tools)
+2. [File Structure](#FileStructure)
+3. [Titles](#Titles)
+4. [Links](#Links)
+5. [Images](#Images)
 
-For Markdown reference check out (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 
-## Table of Contents
+---
 
-1. [Contributor Guidelines](#ContributorGuidelines)
-2. [Table of contents](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+This is the guidline for contributing to the Alaska Developers Alliance repository. Markdown documents are used for generating our static Gatsby JS site.
 
-Title + 1 blank space gives us an H1 and horizontal line.
+## 1. <a name='Tools'></a>Tools
 
-## Table of Contents
+1. VSCode for markdown editing.
+    * shift + command + v to live preview a markdown file
+2. For Markdown reference check out https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
+3. [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) by David Anson is what we use to adhere to good standards and has a convenient VSCode plugin.
+4. [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=joffreykern.markdown-toc) plugin to automatically generate a TOC for us.
+    * Generating
+        1. Create your properly indented headers.
+        2. cmd + shift + p to bring up VSCode commands.
+        3. type "Generate TOC for Markdown".
+    * Regenerating
+        1. Delete the previous TOC at the top of the page.
+        2. cmd + shift + p to bring up VSCode commands.
+        3. type "Generate TOC for Markdown".
 
-Each document should have a table of contents.
+## 2. <a name='FileStructure'></a>File Structure
 
-## Titles
+---
 
-Sub titles have a blank line as well and should use correct number of ## to increment the headers. This is important for SEO.
+    1. Header + description
+    2. Table of Contents (use autogen)
+    3. Sub items and images
 
-# Table of Contents
+## 3. <a name='Titles'></a>Titles
 
+---
 
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+`# Title`
+
+`<space>`
+
+`your description here`
+
+H1 with a blank space after gives us horizontal line.
+
+## Sub headings
+
+Each heading should have a horizontal line following it
+
+`## h2 heading`
+
+`---`
+
+Sub headings can be nested up to h5 by adding additional #
+
+`### h3 heading`
+
+`#### h4 heading`
+
+## 4. <a name='Links'></a>Links
+
+---
+
+Named Link: `[Dev Alliance](https://akdevalliance.com)`
+
+Link: `https://akdevalliance.com`
+
+##  5. <a name='Images'></a>Images
+
+Images should be place in the  `img/` folder.
+
+`![Codi the Yeti - Alt Text](img/codi.png)`
+
+![Codi the Yeti](img/codi.png)
