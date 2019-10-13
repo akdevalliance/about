@@ -16,7 +16,9 @@
 
 ---
 
-This is the guidline for contributing to the Alaska Developers Alliance repository. Markdown documents are used for generating our static Gatsby JS site.
+This is the guidline for contributing to the Alaska Developers Alliance repository.
+
+Markdown documents are used for generating our static Gatsby JS site.
 
 ## 1. <a name='Tools'></a>Tools
 
