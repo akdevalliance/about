@@ -18,8 +18,7 @@ We commonly reference the Alaska Developer's Alliance as "ADA", "Alliance", or "
 ##  2. <a name='Documents'></a>Documents
 
 1. [Code of Conduct](code-of-conduct.md)
-2. [White Paper](white-paper.md)
-    * The heritage of the ADA, why it exists, where we come from and what challenges we face in growing a community in a remote town Alaska.
+2. [White Paper](white-paper.md) - The heritage of the ADA, why it exists, where we come from and what challenges we face in growing a community in a remote town Alaska.
 3. [Developer Alliance Manifesto](developer-manifesto.md)- Where we are headed
 4. [Action Plan](action-plan.md) - How we're going to get there
 5. [Operating Manual](operating-manual.md) - Knowledge on how to organize the board, handle expenses, and run events.
