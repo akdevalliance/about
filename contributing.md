@@ -1,4 +1,7 @@
 # Contributor Guidelines
+This is the guidline for contributing to the Alaska Developers Alliance repository.
+
+Markdown documents are used for generating our static Gatsby JS site.
 
 ## TOC
 <!-- vscode-markdown-toc -->
@@ -14,12 +17,6 @@
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-
----
-
-This is the guidline for contributing to the Alaska Developers Alliance repository.
-
-Markdown documents are used for generating our static Gatsby JS site.
 
 ## 1. <a name='Tools'></a>Tools
 
@@ -39,15 +36,11 @@ Markdown documents are used for generating our static Gatsby JS site.
 
 ## 2. <a name='FileStructure'></a>File Structure
 
----
-
     1. Header + description
     2. Table of Contents (use autogen)
     3. Sub items and images
 
 ## 3. <a name='Titles'></a>Titles
-
----
 
 `# Title`
 
