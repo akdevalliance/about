@@ -5,8 +5,9 @@
 1. [Tools](#Tools)
 2. [File Structure](#FileStructure)
 3. [Titles](#Titles)
-4. [Links](#Links)
-5. [Images](#Images)
+4. [Sub Headings](#SubHeadings)
+5. [Links](#Links)
+6. [Images](#Images)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -56,29 +57,25 @@ Markdown documents are used for generating our static Gatsby JS site.
 
 H1 with a blank space after gives us horizontal line.
 
-## Sub headings
+## 4. <a name='SubHeadings'></a>Sub headings
 
-Each heading should have a horizontal line following it
+The # indicates the level of heading. Leave a blank space after the heading to create a horizontal line just like the title.
+
+For instance:
 
 `## h2 heading`
-
-`---`
-
-Sub headings can be nested up to h5 by adding additional #
 
 `### h3 heading`
 
 `#### h4 heading`
 
-## 4. <a name='Links'></a>Links
-
----
+## 5. <a name='Links'></a>Links
 
 Named Link: `[Dev Alliance](https://akdevalliance.com)`
 
 Link: `https://akdevalliance.com`
 
-##  5. <a name='Images'></a>Images
+## 6. <a name='Images'></a>Images
 
 Images should be place in the  `img/` folder.
 
