@@ -1,8 +1,46 @@
 # WHITEPAPER 2019
 
+<!-- vscode-markdown-toc -->
+* 1. [Introduction](#Introduction)
+	* 1.1. [Problem statement](#Problemstatement)
+	* 1.2. [Abstract](#Abstract)
+	* 1.3. [Target Audience](#TargetAudience)
+	* 1.4. [Outline](#Outline)
+* 2. [1. Brief summary of programming community in Alaska](#BriefsummaryofprogrammingcommunityinAlaska)
+* 3. [2. Career paths for programmers](#Careerpathsforprogrammers)
+* 4. [3. Understanding Alaska's Programmer Career](#UnderstandingAlaskasProgrammerCareer)
+	* 4.1. [Trajectory](#Trajectory)
+	* 4.2. [Programmers have a disincentive to stay in Alaska](#ProgrammershaveadisincentivetostayinAlaska)
+* 5. [4. Education](#Education)
+	* 5.1. [UA System Graduate Statistics](#UASystemGraduateStatistics)
+* 6. [5. Building a better programming community -](#Buildingabetterprogrammingcommunity-)
+	* 6.1. [Results from a survey of local programmers](#Resultsfromasurveyoflocalprogrammers)
+		* 6.1.1. [Are you currently employed as a programmer?](#Areyoucurrentlyemployedasaprogrammer)
+		* 6.1.2. [How long did it take you to find your first developer job in Alaska?](#HowlongdidittakeyoutofindyourfirstdeveloperjobinAlaska)
+		* 6.1.3. [Do you work for an Alaska company(s) or work remotely?](#DoyouworkforanAlaskacompanysorworkremotely)
+		* 6.1.4. [If you live in Alaska, how satisfied are you with job opportunities for software developers living in Alaska?](#IfyouliveinAlaskahowsatisfiedareyouwithjobopportunitiesforsoftwaredeveloperslivinginAlaska)
+		* 6.1.5. [What do you believe is the most important element missing in the Alaskan Developer Community?](#WhatdoyoubelieveisthemostimportantelementmissingintheAlaskanDeveloperCommunity)
+		* 6.1.6. [Where do you hang out with programmers outside of work?](#Wheredoyouhangoutwithprogrammersoutsideofwork)
+		* 6.1.7. [What could make the tech community better in Alaska?](#WhatcouldmakethetechcommunitybetterinAlaska)
+		* 6.1.8. [Can we email you?](#Canweemailyou)
+		* 6.1.9. [Key Community Takeaways](#KeyCommunityTakeaways)
+* 7. [6. Solution](#Solution)
+	* 7.1. [The Flywheel of Community](#TheFlywheelofCommunity)
+* 8. [Conclusion](#Conclusion)
+	* 8.1. [Endorsed by the founding board of the Alaska Dev Alliance](#EndorsedbythefoundingboardoftheAlaskaDevAlliance)
+		* 8.1.1. [Citations](#Citations)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 [//]: # (image of ada logo here)
 
-## Introduction
+
+
+##  1. <a name='Introduction'></a>Introduction
 
 The technology workforce in Alaska is stagnant and has stunted the businesses in
 the technology sector in Alaska. Programmers often leave the state citing "no jobs"
@@ -18,7 +56,7 @@ Throughout the course of this paper, the Alaska Developer's Alliance will be ref
 to as ADA or Alliance for short.
 Developers will be referred to as software engineers, engineers, and programmers.
 
-### Problem statement
+###  1.1. <a name='Problemstatement'></a>Problem statement
 
 _Alaska does not currently have the required workforce to fill the existing gaps in the
 workforce, support local technology development, or scale a high growth
@@ -38,7 +76,7 @@ will continue to struggle. In order to help drive engineering in Alaska we are b
 a community that serves as a hub for programmers, engages with students of all
 levels, and provides ongoing training and professional development.
 
-### Abstract
+###  1.2. <a name='Abstract'></a>Abstract
 
 The Developer Community in Alaska is woefully lacking. There is a self fulfilling
 prophecy of developers not believing there is a community and then not
@@ -50,7 +88,7 @@ problem. By focusing on building a community the Developers Alliance will first 
 the morale of developers to create momentum and a shift in the understanding of
 the developer community in Alaska.
 
-### Target Audience
+###  1.3. <a name='TargetAudience'></a>Target Audience
 
 This white paper is written for employers, community builders, educators, policy
 makers, and community members looking for a deep understanding of the
@@ -61,7 +99,7 @@ Alaska Developers Alliance.
 - Part 2. [The Alaska Dev Alliance Manifesto](https://akdevalliance.com/manifesto)
 - Part 3. [Action Plan](https://akdevalliance.com/plan)
 
-### Outline
+###  1.4. <a name='Outline'></a>Outline
 
 1. Brief summary of the programming community in Alaska
 2. Career paths for programmers
@@ -70,7 +108,7 @@ Alaska Developers Alliance.
 5. A look at survey results of developers in the community
 6. Solutions the Alaska Developer’s Alliance Provides
 
-## 1. Brief summary of programming community in Alaska
+##  2. <a name='BriefsummaryofprogrammingcommunityinAlaska'></a>1. Brief summary of programming community in Alaska
 
 Before the Alaska Developers Alliance was founded, 6 months of research was
 conducted in order to find out why a programmer community did not exist in 2018.
@@ -105,7 +143,7 @@ Over 70% of those meetups provided food and other forms of participation
 benefits. Benefits were provided by potential employers, technology
 shareholders, and educational institutions
 
-## 2. Career paths for programmers
+##  3. <a name='Careerpathsforprogrammers'></a>2. Career paths for programmers
 
 In order to understand the landscape of the developer workforce, we need to agree
 on some definitions of experience. Initially a scale of 0-4 was used, however, a top
@@ -132,9 +170,9 @@ companies are losing technical talent to the management track, there has been a
 movement toward rewarding individual contributors who choose to continue down
 the technical career path.
 
-## 3. Understanding Alaska's Programmer Career
+##  4. <a name='UnderstandingAlaskasProgrammerCareer'></a>3. Understanding Alaska's Programmer Career
 
-### Trajectory
+###  4.1. <a name='Trajectory'></a>Trajectory
 
 There are plenty of programmers at the level 0 phase where they begin to
 experiment and play with programming on their own, however, when looking into
@@ -156,7 +194,7 @@ top-end income. Top-end income for a level 5 programmer in Seattle can be
 $300,000+ in Seattle vs $150,000 in Alaska or about a 200% increase. Base rate for a
 level 4 developer at Snapchat is $190,000 + bonus and stock options.
 
-### Programmers have a disincentive to stay in Alaska
+###  4.2. <a name='ProgrammershaveadisincentivetostayinAlaska'></a>Programmers have a disincentive to stay in Alaska
 
 **If you live in Alaska, how satisfied are you with job opportunities for software developers living in Alaska?**
 
@@ -192,7 +230,7 @@ seeking education elsewhere. This all contributes to the bright students leaving
 Alaska for education, also known as the "brain drain". Interestingly though, UAA, has
 had an upswing in CS enrollment over the last 4 years.
 
-## 4. Education
+##  5. <a name='Education'></a>4. Education
 
 While we've got a pipeline of incoming students, we do not have pipeline of
 PRODUCTIVE programmers entering the workforce. The long standing mantra in
@@ -238,7 +276,7 @@ Alaska Fairbanks.** For most, getting a non-specialized 2 year degree in compute
 science is too large a time and financial investment while getting established and
 does not necessarily fill the gap in the workforce.
 
-### UA System Graduate Statistics
+###  5.1. <a name='UASystemGraduateStatistics'></a>UA System Graduate Statistics
 
 | School      | 2017 | 2018 | 2019 |
 |-------------|------|------|------|
@@ -251,16 +289,16 @@ Beyond UA programs, there are no codeschools, bootcamps, or continuing
 education opportunities.​ **The biggest threat to Alaska's programming community
 is a lack of structure to get programmers from level 2 to level 4.**
 
-## 5. Building a better programming community -
+##  6. <a name='Buildingabetterprogrammingcommunity-'></a>5. Building a better programming community -
 
-### Results from a survey of local programmers
+###  6.1. <a name='Resultsfromasurveyoflocalprogrammers'></a>Results from a survey of local programmers
 
 Leading up to the creation of the Developers Alliance, 100 programmers from Alaska
 were surveyed (2018) in order to get a feel for what the community looked like. Most
 questions received around 70 responses, while some were conducted as a separate
 survey and will have closer to 50.
 
-#### Are you currently employed as a programmer?
+####  6.1.1. <a name='Areyoucurrentlyemployedasaprogrammer'></a>Are you currently employed as a programmer?
 
 [//]: # (Pie chart of how developers are employed)
 
@@ -270,7 +308,7 @@ Many of these programmers report that they're under employed or have a hard time
 getting consistent work. **This is consistent with the mantra "The hardest job to
 get as a programmer is your first one."**
 
-#### How long did it take you to find your first developer job in Alaska?
+####  6.1.2. <a name='HowlongdidittakeyoutofindyourfirstdeveloperjobinAlaska'></a>How long did it take you to find your first developer job in Alaska?
 
 [//]: # (Pie chart of time for developers to find their first job in Alaska)
 
@@ -280,11 +318,11 @@ mid and senior developers. This is effectively cutting off the pipeline of workf
 development in Alaska. Furthermore, it creates an incentive for high potential junior
 programmers to leave the state - even before attending an Alaskan University.
 
-#### Do you work for an Alaska company(s) or work remotely?
+####  6.1.3. <a name='DoyouworkforanAlaskacompanysorworkremotely'></a>Do you work for an Alaska company(s) or work remotely?
 
 [//]: # (Pie chart showing what types of companies developers work for.)
 
-#### If you live in Alaska, how satisfied are you with job opportunities for software developers living in Alaska?
+####  6.1.4. <a name='IfyouliveinAlaskahowsatisfiedareyouwithjobopportunitiesforsoftwaredeveloperslivinginAlaska'></a>If you live in Alaska, how satisfied are you with job opportunities for software developers living in Alaska?
 
 [//]: # (Bar chart of developer satisfaction in Alaska)
 
@@ -293,7 +331,7 @@ Companies and 43% of 75% of developers saying they're unhappy with Alaskan job
 opportunities, we're clearly seeing a trend of dissatisfied programmers working in
 Alaska.
 
-#### What do you believe is the most important element missing in the Alaskan Developer Community?
+####  6.1.5. <a name='WhatdoyoubelieveisthemostimportantelementmissingintheAlaskanDeveloperCommunity'></a>What do you believe is the most important element missing in the Alaskan Developer Community?
 
 The top 4 answers were:
 
@@ -302,21 +340,21 @@ The top 4 answers were:
 3. Learning opportunities and career growth / mentorships
 4. Lack of interesting projects
 
-#### Where do you hang out with programmers outside of work?
+####  6.1.6. <a name='Wheredoyouhangoutwithprogrammersoutsideofwork'></a>Where do you hang out with programmers outside of work?
 
 The top 2 answers were:
 
 1. What other programmers?
 2. Meetups
 
-#### What could make the tech community better in Alaska?
+####  6.1.7. <a name='WhatcouldmakethetechcommunitybetterinAlaska'></a>What could make the tech community better in Alaska?
 
 Top 2 answers
 
 1. Better Job opportunities and more software employers
 2. Making the community more visible and active ( meetups / peer talks )
 
-#### Can we email you?
+####  6.1.8. <a name='Canweemailyou'></a>Can we email you?
 
 [//]: # (Pie chart of willingness to be e-mailed)
 
@@ -325,7 +363,7 @@ regarding future events and updates on the Developers Alliance. This shows an
 underlying need for an organization that brings together developers for the purpose
 of professional development, community, and job opportunities.
 
-#### Key Community Takeaways
+####  6.1.9. <a name='KeyCommunityTakeaways'></a>Key Community Takeaways
 
 1. Programmers are hungry for learning opportunities.
 2. Programmers don't believe there is a community, so they do not look for ways
@@ -339,7 +377,7 @@ of professional development, community, and job opportunities.
 6. Alaska has few programmers because there are few jobs, and fewer jobs
     because there are few programmers.
 
-## 6. Solution
+##  7. <a name='Solution'></a>6. Solution
 
 The Alaska Developers Alliance is a developer first organization with the purpose of
 building a strong community that keeps developers engaged and retained in the
@@ -348,7 +386,7 @@ currently has 3 chapters in Anchorage, Juneau, and Fairbanks, with intention to
 expand to further geographic regions. The Developers Alliance will be the flywheel of
 technology in the Alaskan programmer ecosystem.
 
-### The Flywheel of Community
+###  7.1. <a name='TheFlywheelofCommunity'></a>The Flywheel of Community
 
 [//]: # (graphic of the flywheel goes here.)
 
@@ -362,14 +400,14 @@ The Dev Alliance acts as a flywheel for the technology workforce by:
     outside conferences
 5. Bridging the gap from level 0 all the way through a company’s level 7 hire
 
-## Conclusion
+##  8. <a name='Conclusion'></a>Conclusion
 
 The Alaska Developers Alliance is building a workforce for the future. By focusing on
 developers first, it will create the momentum needed for a thriving, active,
 community that developers will aspire to be a part of and enable the next
 generation of innovation in Alaska. See the [action plan](https://akdevalliance.com/plan) for how we’re moving into the future.
 
-### Endorsed by the founding board of the Alaska Dev Alliance
+###  8.1. <a name='EndorsedbythefoundingboardoftheAlaskaDevAlliance'></a>Endorsed by the founding board of the Alaska Dev Alliance
 
 - Jeff Levin
 - Vincent Castro
@@ -383,7 +421,7 @@ generation of innovation in Alaska. See the [action plan](https://akdevalliance.
 - Kelly Larson
 - Erik Talvi
 
-#### Citations
+####  8.1.1. <a name='Citations'></a>Citations
 
 - <https://www.infoq.com/news/2013/02/Introverted-Intuitive-Logical>
 - <https://www.coursereport.com/reports/coding-bootcamp-job-placement->
