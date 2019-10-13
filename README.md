@@ -27,6 +27,6 @@ We commonly reference the Alaska Developer's Alliance as "ADA", "Alliance", or "
 8. [Contributing](contributing.md)
 
 ## 2. <a name='Contributing'></a>Contributing
-We'd love your help. Here is a list of projects we'd like to finish. These are a great way to learn markdown and practice using Git! Be sure to checkout the [contributor guidelines](contibuting.md).
+We'd love your help. Here is a list of projects we'd like to finish. These are a great way to learn markdown and practice using Git! Be sure to checkout the [contributor guidelines](contributing.md).
 
 * Projects
