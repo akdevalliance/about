@@ -36,7 +36,7 @@ Abbrev;
 11. May: Meetup; Social
 12. June: Social; Meetup/off
 
-## Current Leadership / Roles
+## [Current Leadership](organization-structure.md)
 
 Director:
 
@@ -86,43 +86,6 @@ UAA CS Department Liason:
 
 * Kenrick Mock
 
-## Promotion
-
-### Swag
-#### Stickers
-* Rush order from Alaska Serigraphics $.60/each for 50 2x2 die cut
-
-
-### Sending out a monthly newsletter
-	Purpose: Show developers that there is an active programming community with events happening. Spread awareness about events for developers to participate in. Get attendance for events. Promote other groups working in tech that would like to build a following. Even if there are no events, send a newsletter letting people know that there are no events and we will be taking a break until the next event.
-
-#### When: At the beginning of the month.
-    1. Gather events, date, time, description, location from:
-    	1. #allianceorganizers (slack)
-    	2. Code for Anchorage - Brendan Babb (brendanbabb@gmail.com)
-		3. VMUG - Jeremy Mayfield (slack)
-		4. UAA CS club - Link Larson (slack)
-		5. UAF CS Club - Matt Perry (slack)
-		6. Log into mailchimp
-		7. Duplicate a previous month’s newsletter
-		8. Update the Title
-		9. Update the subject
-		10. UPDATE THE URL (this is very easy to miss)
-		11. Update the twitter / Facebook / Social posts
-		12. Update the description with important events to emphasize
-		13. Upload a photo from the last event
-		14. Update the list of events
-		15. Schedule to send Tuesday-Thursday afternoon from 1-3pm.
-
-
-
-### UA student recruitment
-	Purpose: Get students involved in the Alliance before they graduate.
-Description: At the beginning of the semester, present a 5-10minute introduction to the class about what the group is and why they should participate and how it will help them.
-Dates: Beginning of semester
-	University MIS and CS students
-	Why the group exists
-
 ## [Events](events/events.md)
 
 See events page for details and considerations for putting on an event or see specific event page for details below.
@@ -134,6 +97,15 @@ See events page for details and considerations for putting on an event or see sp
 5. [Career Day](events/career-day.md)
 6. [UAA Classroom Pitches](events/classroom-pitch.md)
 
+## [Promotion][promotion.md]
+
+
+### UA student recruitment
+	Purpose: Get students involved in the Alliance before they graduate.
+Description: At the beginning of the semester, present a 5-10minute introduction to the class about what the group is and why they should participate and how it will help them.
+Dates: Beginning of semester
+	University MIS and CS students
+	Why the group exists
 
 ## Yearly Budget
 
@@ -165,50 +137,3 @@ Expenses should be verbally approved or approved via slack prior to purchase.
 Food and Beverages of any sort MUST be pre-approved by the board. Funding for these items cannot come from Launch Alaska’s pool of government funding.
 
 ### Sponsorships
-
-
-## Organizational Structure and Job Duties
-
-### Director
-
-	Sets mission and vision of the organization.
-
-* Coordinate with Launch Alaska on expenses, oversight, budgeting
-* Call Board Meetings
-* Set key metrics for the Alliance
-* Approve expenses
-
-
-
-### Secretary
-
-	Responsible for notetaking and ratifying actions by the board.
-
-### Treasurer
-
-	Responsible for putting together yearly budget that matches financial input with organizational goals for events. Handles confidential Launch Alaska information and provides official documentation when interfacing with sponsors, companies, and organizations.
-
-* Approve expenses
-* Coordinate with Launch Alaska on expenses, oversight, budgeting
-
-### Chief of staff
-
-	Oversees operations and leads board staffing. It is strongly encouraged that this person is located in a separate location from the director.
-
-#### Meetup Owner
-
-* Find speakers
-
-#### Marketing Owner
-
-#### Sponsorship Owner
-
-#### Hackathon Owner
-
-* Handle Insurance for events
-* Secure venue
-
-#### Bootcamp Owner
-
-* Handle Insurance for events
-* Secure venue
