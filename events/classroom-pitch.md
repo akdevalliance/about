@@ -17,3 +17,11 @@ Duckering 5th floor. Rooms are easy to use if free
 UAF CS Discord: www.cs.uaf.edu/chat
 Contact admins and ask to send out meeting announcements
 Admins (09/19): achauhan@alaska.edu, mperry37@alaska.edu, cktitus@alaska.edu
+
+## UA student recruitment
+
+	Purpose: Get students involved in the Alliance before they graduate.
+Description: At the beginning of the semester, present a 5-10minute introduction to the class about what the group is and why they should participate and how it will help them.
+Dates: Beginning of semester
+	University MIS and CS students
+	Why the group exists

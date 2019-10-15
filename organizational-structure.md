@@ -1,4 +1,32 @@
-# Organizational Structure
+# Organizational Structure & Leadership Team
+
+## Leadership team
+
+* Director - Jeff Levin
+
+* Treasurer - Adam Link
+
+* Industry Expert- Melanie Bladow
+
+* Non-profit Chair - Isaac Vanderburg
+
+* Fairbanks Representative - Vincent Castro
+
+* Juneau Representative - Conroy Whitney
+
+* UAF CS Representative - Arsh Chauhan
+
+* UAA Recruitment - Link Larson
+
+* Social Media - Dave Bechberger
+
+* UAF CS Department Liason - Orion Lawlor
+
+* UAA MIS Department Liason - Bogdan Hoanca
+
+* UAA CS Department Liason - Kenrick Mock
+
+## Organizational Structure
 
 ## Director
 

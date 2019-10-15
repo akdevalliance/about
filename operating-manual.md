@@ -1,8 +1,25 @@
+<!-- vscode-markdown-toc -->
 # Alaska Developers Alliance Operating Manual
 
 This document serves as a repository for running the Alaska Developers Alliance. It describes the organizational structure, functional requirements for the board, budget, group promotion, running and hosting events and the necessary institutional knowledge that the group acquires.
 
-## Dev Alliance Yearly Calendar
+## Table of Contents
+1. [Dev Alliance Yearly Calendar](#DevAllianceYearlyCalendar)
+2. [Current Leadership & Organizational Structure](#CurrentLeadershiporganizational-structure.md)
+3. [Events](EventseventsREADME.md)
+4. [Promotion](#Promotionpromotion.md)
+5. [Budget](#YearlyBudget)
+	* 5.1. [Expenses](#Expenses)
+	* 5.2. [Reimbursements](#Reimbursements)
+	* 5.3. [Sponsorships](#Sponsorships)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+##  1. <a name='DevAllianceYearlyCalendar'></a>Dev Alliance Yearly Calendar
 
 August through November is the “startup ecosystem” time. To get the best results and create the most opportunities for programmers, we should orchestrate our events in line with the startup ecosystem to inject practitioners into the talent pool.This schedule would create a pipeline where yearly events build up regular attendance, foster community, and gravity to bring in new professionals.
 
@@ -36,59 +53,11 @@ Abbrev;
 11. May: Meetup; Social
 12. June: Social; Meetup/off
 
-## [Current Leadership](organization-structure.md)
+##  2. <a name='CurrentLeadershiporganizational-structure.md'></a>[Current Leadership & Organizational Structure](organizational-structure.md)
 
-Director:
+##  3. <a name='EventseventsREADME.md'></a>[Events](events/README.md)
 
-* Jeff Levin
-
-Treasurer:
-
-* Adam Link
-
-Industry Expert:
-
-* Melanie Bladow
-
-Non-profit Chair:
-
-* Isaac Vanderburg
-
-Fairbanks Representative:
-
-* Vincent Castro
-
-Juneau Representative:
-
-* Conroy Whitney
-
-UAF CS Representative:
-
-* Arsh Chauhan
-
-UAA Recruitment:
-
-* Link Larson
-
-Social Media:
-
-* Dave Bechberger
-
-UAF CS Department Liason:
-
-* Orion Lawlor
-
-UAA MIS Department Liason:
-
-* Bogdan Hoanca
-
-UAA CS Department Liason:
-
-* Kenrick Mock
-
-## [Events](events/events.md)
-
-See events page for details and considerations for putting on an event or see specific event page for details below.
+See [events](events/README.md) page for details and considerations for putting on an event or see specific event page for details below.
 
 1. [Statewide Meetup](events/statewide-meetup.md)
 2. [Social](events/social.md)
@@ -97,17 +66,9 @@ See events page for details and considerations for putting on an event or see sp
 5. [Career Day](events/career-day.md)
 6. [UAA Classroom Pitches](events/classroom-pitch.md)
 
-## [Promotion][promotion.md]
+##  4. <a name='Promotionpromotion.md'></a>[Promotion](promotion.md)
 
-
-### UA student recruitment
-	Purpose: Get students involved in the Alliance before they graduate.
-Description: At the beginning of the semester, present a 5-10minute introduction to the class about what the group is and why they should participate and how it will help them.
-Dates: Beginning of semester
-	University MIS and CS students
-	Why the group exists
-
-## Yearly Budget
+##  5. <a name='YearlyBudget'></a>Budget
 
 Base funding provided by Launch Alaska
 
@@ -121,7 +82,7 @@ Base funding provided by Launch Alaska
 
 2023 - $8,000 - $12,000
 
-### Expenses
+###  5.1. <a name='Expenses'></a>Expenses
 
 Recurring Software Expenses
 Zoom ? (should really switch this to LA and share their account)
@@ -130,10 +91,10 @@ Should switch to the free one for nonprofits
 Expensify - handled through Launch $5/user/month
 Amazon Webservices
 
-### Reimbursements
+###  5.2. <a name='Reimbursements'></a>Reimbursements
 
 A representative in each geographic location will have an expensify account as well as the Director and Treasurer.
 Expenses should be verbally approved or approved via slack prior to purchase.
 Food and Beverages of any sort MUST be pre-approved by the board. Funding for these items cannot come from Launch Alaska’s pool of government funding.
 
-### Sponsorships
+###  5.3. <a name='Sponsorships'></a>Sponsorships
