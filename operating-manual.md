@@ -2,7 +2,7 @@
 
 This document serves as a repository for running the Alaska Developers Alliance. It describes the organizational structure, functional requirements for the board, budget, group promotion, running and hosting events and the necessary institutional knowledge that the group acquires.
 
-## Dev Alliance Yearly Calendar:
+## Dev Alliance Yearly Calendar
 
 August through November is the “startup ecosystem” time. To get the best results and create the most opportunities for programmers, we should orchestrate our events in line with the startup ecosystem to inject practitioners into the talent pool.This schedule would create a pipeline where yearly events build up regular attendance, foster community, and gravity to bring in new professionals.
 
@@ -189,15 +189,20 @@ Statewide meetups should be scheduled 6 months in advance on Thursdays. The sche
 ### Special Events
 
 
-Yearly Budget
-	Base funding provided by Launch Alaska
-		2019 - $8,000 - $12,000
+## Yearly Budget
+Base funding provided by Launch Alaska
+
+2019 - $8,000 - $12,000
+
 2020 - $8,000 - $12,000
+
 2021 - $8,000 - $12,000
+
 2022 - $8,000 - $12,000
+
 2023 - $8,000 - $12,000
 
-Expenses
+### Expenses
 	Recurring Software Expenses
 Zoom ? (should really switch this to LA and share their account)
 Gsuite - $5/mots
@@ -205,17 +210,12 @@ Should switch to the free one for nonprofits
 Expensify - handled through Launch $5/user/month
 Amazon Webservices
 
-	Reimbursements
+### Reimbursements
 A representative in each geographic location will have an expensify account as well as the Director and Treasurer.
 Expenses should be verbally approved or approved via slack prior to purchase.
 Food and Beverages of any sort MUST be pre-approved by the board. Funding for these items cannot come from Launch Alaska’s pool of government funding.
 
-
-
-
-
-
-Sponsorships
+### Sponsorships
 
 Hackathon Template Email
 Hi <their-name>,
@@ -247,10 +247,6 @@ Lastly, food and beverage can be difficult for us to get funding for. There's a 
 
 Zoom link
 https://zoom.us/j/117140349
-
-
-
-
 
 Disclaimer, these are all of the things Director is currently doing for the sake of visibility. Need to figure out how to split these up so director role is more manageable and figure out what jobs should be handed off.
 
