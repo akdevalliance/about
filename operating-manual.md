@@ -2,7 +2,40 @@
 
 This document serves as a repository for running the Alaska Developers Alliance. It describes the organizational structure, functional requirements for the board, budget, group promotion, running and hosting events and the necessary institutional knowledge that the group acquires.
 
+## Dev Alliance Yearly Calendar:
 
+August through November is the “startup ecosystem” time. To get the best results and create the most opportunities for programmers, we should orchestrate our events in line with the startup ecosystem to inject practitioners into the talent pool.This schedule would create a pipeline where yearly events build up regular attendance, foster community, and gravity to bring in new professionals.
+
+1. July begin planning the following year
+2. August starts outreach and engagement with students attracts new members as soon as they start classes.
+3. September provide a bootcamp on specific technology that is 100% free to students and mixes students with existing talent. Also incorporate a meetup so students can be in relaxed environment and socialize.
+4. October provides events for programmers to be involved with industry(aka find internships and jobs) and build fun stuff in order to bond and create relationships. We inform students and teams that projects can win entry into startup weekend in November where resources are given for teams to vet turning their project into a business. Developer Survey
+5. November programmers specifically invited into startup weekend. Need to find good incentives for them to participate. Board Retreat to incorporate what has been learned into next year.
+6. December we relax with a casual social event to help students find jobs, work on resume, and have a social time to hang out
+7. January we begin UA recruitment cycle. Include social and meetup
+8. February we have a meetup
+9. March includes a workshop for engagement and a meetup
+10. April includes second casual event for students to focus on career at the end of the semester
+One last meetup to set us up for the summer break
+11. June is a relaxed environment. Either just have a social or a meetup.
+
+---
+
+Abbrev;
+
+
+1. July: Social; Meetup; Planning upcoming year
+2. August: Start ramping up events and advertising. Coordinate with companies. Involve UAA/UAF heavily.
+3. September: Bootcamp that includes a social; meetup; 
+4. October: Hackathon + Arctic Con (work with them for dev track of sorts); meetup; Send developer survey
+5. November: Startup weekend; meetup; Board retreat
+6. December: Social; Career workshop/UA celebration of professors; off
+7. January: Social; meetup (engage UAA for new semester)
+8. February: Meetup
+9. March: Meetup; Afternoon Workshop
+10. April: Meetup; Career workshop/ UA celebration of professors
+11. May: Meetup; Social
+12. June: Social; Meetup/off
 
 ## Promotion
 
@@ -11,34 +44,35 @@ This document serves as a repository for running the Alaska Developers Alliance.
 
 #### When: At the beginning of the month.
     1. Gather events, date, time, description, location from:
-         1. \#allianceorganizers (slack)
-         2. Code for Anchorage - Brendan Babb (brendanbabb@gmail.com)
-VMUG - Jeremy Mayfield (slack)
-UAA CS club - Link Larson (slack)
-UAF CS Club - Matt Perry (slack)
-Log into mailchimp
-Duplicate a previous month’s newsletter
-Update the Title
-Update the subject
-UPDATE THE URL (this is very easy to miss)
-Update the twitter / Facebook / Social posts
-Update the description with important events to emphasize
-Upload a photo from the last event
-Update the list of events
-Schedule to send Tuesday-Thursday afternoon from 1-3pm.
+    	1. #allianceorganizers (slack)
+    	2. Code for Anchorage - Brendan Babb (brendanbabb@gmail.com)
+		3. VMUG - Jeremy Mayfield (slack)
+		4. UAA CS club - Link Larson (slack)
+		5. UAF CS Club - Matt Perry (slack)
+		6. Log into mailchimp
+		7. Duplicate a previous month’s newsletter
+		8. Update the Title
+		9. Update the subject
+		10. UPDATE THE URL (this is very easy to miss)
+		11. Update the twitter / Facebook / Social posts
+		12. Update the description with important events to emphasize
+		13. Upload a photo from the last event
+		14. Update the list of events
+		15. Schedule to send Tuesday-Thursday afternoon from 1-3pm.
 
 
 
-UA student recruitment
+### UA student recruitment
 		Purpose: Get students involved in the Alliance before they graduate.
 Description: At the beginning of the semester, present a 5-10minute introduction to the class about what the group is and why they should participate and how it will help them.
 Dates: Beginning of semester
 		University MIS and CS students
 		Why the group exists
 
+## Events
 
-Events
-	Streaming
+### Streaming
+
 Decide on one person who is responsible for the stream
 Create FB Live and YouTube live events
 Doing this in advance helps advertising
@@ -52,7 +86,7 @@ Facebook will not let you reuse the old stream if this happens
 Monitor the stream for issues and questions throughout the meeting
 End stream when meeting ends
 
-	Eventbrite
+### Eventbrite
 Create the event
 Set location number of tickets
 Waitlist
@@ -60,34 +94,35 @@ Public or private (someone can search for it vs being sent the link)
 Send an email 48 hours to remind people about the event
 Day before send an email to everyone with details on the event. See email templates below.
 
-	Insurance
-	Many event spaces require that we carry insurance for our events. If that is the case many of these spaces have a broker we can order through. When using APU, we used their broker.
+### Insurance
+Many event spaces require that we carry insurance for our events. If that is the case many of these spaces have a broker we can order through. When using APU, we used their broker.
 $274 for 4 days with 1-50 people for class 1 (seminar) insurance
 
 
-Venue Spaces
-		Anchorage
-The Boardroom AK
-Generally donates the space. We’re required to chip in for beer every other month depending on attendance. About $40/month to host the meetup.
-Good for meetups up to 40 people in the kitchen.
-Verify you have a projector screen or TV to setup
-APU
-APU has donated space to our group before. We must provide insurance, a deposit, and a cleaning fee
-Grant Hall room #231 - 40-50 people - $600/day
-Lecture Hall - 50 people
-Good private conference wifi. Public wifi is slow.
-Good AV team to help with right adapters and extension cords/surge protectors
+### Venue Spaces
 
-		Fairbanks
-BP Design Theatre
-UAF ELIF (New Engineering building). Free for University affiliates. Built-in video conferencing.
-Grab mic from the back. It’s in a closet. Keep it off until someone needs to speak
-Duckering 535
-Sits around 20. No need to book and it is free as long as there is no class scheduled. Built-in video conferencing.
-Mic and speaker system should just work
+#### Anchorage
+* The Boardroom AK
+	* Generally donates the space. We’re required to chip in for beer every other month depending on attendance. About $40/month to host the meetup.
+	* Good for meetups up to 40 people in the kitchen.
+	* Verify you have a projector screen or TV to setup
 
+* APU
+	* APU has donated space to our group before. We must provide insurance, a deposit, and a cleaning fee
+	* Good private conference wifi. Public wifi is slow.
+	* Good AV team to help with right adapters and extension cords/surge protectors
+		* Grant Hall room #231 - 40-50 people - $600/day
+		* Lecture Hall - 50 people
 
-		Juneau
+#### Fairbanks
+* BP Design Theatre
+* UAF ELIF (New Engineering building). Free for University affiliates. Built-in video conferencing.
+*	Grab mic from the back. It’s in a closet. Keep it off until someone needs to speak
+* Duckering 535
+	* Sits around 20. No need to book and it is free as long as there is no class scheduled. Built-in video conferencing.
+	* Mic and speaker system should just work
+
+#### Juneau
 Juneau Coworking Space
 Email conroy@juneaucoworking.com
 Come early to open doors, turn on lights, etc.
@@ -98,71 +133,60 @@ Pair with Jabra SPEAK 510 USB external speakers
 Start Zoom with link from #alliance-organizers channel
 Change name to "Juneau"
 
+###  Event Steps
+#### Before Event
+1. Figure out the event, reason for it, etc
+2. Lock in a speaker and date - run this by the Alliance Organizers
+3. Survey the Alliance to get an estimate of attendance
+4. Lock in space for the event
+5. Make event brite and advertise via newsletter, slack, etc
+6. Get insurance for event space (if required)
+7. Verify event space facilities (projector vs tv, which adapters, audio, etc)
+8. Arrange for food and beverage ( 1-2 weeks out )
+9. Coffee: see Kaladi
+10. Food: see food
+11. Eventbrite will send out a reminder 48 hours prior by default
+12. Send confirmation email the day before the with any additional details
+#### Day of before
+1. Arrive 45min. ahead of time
+2. Get acquainted with the space
+3. Set up room
+4. Double check AV / Internet
+5. Clean up room
+6. Return equipment
+7. Confirm with event space host on your way out
+#### After Event
+1. Send follow up email (you can do this through eventbrite)
+2. Thank people for attendance
+3. Send any materials / info / links
+4. Follow up in slack
 
-Event Steps
-Before Event
-Figure out the event, reason for it, etc
-Lock in a speaker and date - run this by the Alliance Organizers
-Survey the Alliance to get an estimate of attendance
-Lock in space for the event
-Make event brite and advertise via newsletter, slack, etc
-Get insurance for event space (if required)
-Verify event space facilities (projector vs tv, which adapters, audio, etc)
-Arrange for food and beverage ( 1-2 weeks out )
-Coffee: see Kaladi
-Food: see food
-Eventbrite will send out a reminder 48 hours prior by default
-Send confirmation email the day before the with any additional details
-Day of
-Arrive 45min. ahead of time
-Get acquainted with the space
-Set up room
-Double check AV / Internet
-Clean up room
-Return equipment
-Confirm with event space host on your way out
-After
-Send follow up email (you can do this through eventbrite)
-Thank people for attendance
-Send any materials / info / links
-Follow up in slack
-
-Introducing students to the Alliance
+### Introducing students to the Alliance
 Focus points
 Why?
 Important to be involved with professionals before you graduate; Community and connections will get you jobs
 It’s inspiring to hang out with successful practitioners you can learn from
 It’s fun
 
+### Hosting a statewide meetup
+Statewide meetups should be scheduled 6 months in advance on Thursdays. The schedule should be coordinated ahead of time with the UAA and UAF school calendar.
 
+#### 3-4 weeks before 
+1. Secure the space
+	* Anchorage
+	* Juneau
+	* Fairbanks
+2. Make an event description
+3. Create event on Facebook with details
+4. Schedule FB Live and YouTube live links
 
+### Hosting a bootcamp
 
+### Planning Events
 
+### Meetups
 
-Hosting a statewide meetup
-	Statewide meetups should be scheduled 6 months in advance on Thursdays. The schedule should be coordinated ahead of time with the UAA and UAF school calendar.
-
-Verify the date is available
-Run it by #alliance-organizers on slack to verify
-Secure the space
-Anchorage
-Juneau
-Fairbanks
-Make an event description
-Around 3 weeks  in advance
-Create event on Facebook with details
-Schedule FB Live and YouTube live links
-
-
-
-	Hosting a bootcamp
-
-
-Planning Events
-
-	Meetups
-
-	Special Events
+### Special Events
 
 
 Yearly Budget
