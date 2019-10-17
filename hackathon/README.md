@@ -98,13 +98,13 @@ For a group of 24, mostly professionals (non-students).
 * Create individual Facebook events for each location(SEO)
 * Send out PSA to media outlets and businesses
 * Send out hackathon signup
-* Put up posters at UA Campuses 
+* Put up posters at UA Campuses
 * Send out notice to UA professors in engineering, CS, MIS, etc
 * Order basic Swag
     * Stickers
     * glasses
     * beanies
-* Get list of prizes together. 
+* Get list of prizes together
 * Secure locations for hackathon
 * Secure UA professor input on hackathon
 
@@ -118,6 +118,12 @@ For a group of 24, mostly professionals (non-students).
 * update website
     * add sponsors to website
     * update website schedule
+
+### 4 days out
+### 3 days out
+### 2 days out
+### 1 day out
+### day of
 
 ## Event Schedule Template
 
