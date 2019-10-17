@@ -4,6 +4,16 @@ The Alaska Developer’s Alliance, in tandem with UAA and UAF, presents our firs
 
 ## Planning overview
 
+## Projects
+
+### Student Projects
+
+Projects can be long or short.
+
+### Industry Projects / Sponsors
+
+Soliciting projects is a great way to engage businesses for sponsorship as well have have practical projects for students to work on. Projects don't need to last all weekend. In fact, projects that are shorter (even down to a few hours). This allows flexibility for people who may not be able to spare the whole weekend, but want to work on and contribute to a project. These projects can also provide great value to the businesses using them.
+
 ## Utensils
 
 * napkins
@@ -94,18 +104,7 @@ For a group of 24, mostly professionals (non-students).
     * Stickers
     * glasses
     * beanies
-* Get list of prizes together. Potential Categories (see previous prize list):
-    * Trinkets
-        * water bottles
-        * basic swag
-        * evernote rocket book
-        * etc
-	* Gadgets
-        * raspi
-        * camera sensors
-        * etc
-	* Toys
-        * small drones
+* Get list of prizes together. 
 * Secure locations for hackathon
 * Secure UA professor input on hackathon
 
@@ -158,3 +157,46 @@ For a group of 24, mostly professionals (non-students).
 * 5:00pm —  Project Presentations + Dinner
 * 6:00pm — Keynote Wrap-up (Jeff) Announcements & Awards
 * 6:45pm — Awards
+
+## Awards & Prizes
+
+Prizes should be pooled together for all locations. No cash or gift cards should be offered for a prize as this incentivizes work for pay as opposed to learning initiatives. Teams will form with the explicit goal of winning as opposed to learning.
+
+### Awards
+
+Awards should reinforce learning, cooperation, completing projects, mentorship, and other attributes that resemble real work skills.
+
+#### 2019 awards
+
+* Most Meta Geek
+* Most iterations of a project
+* Vantablack box award
+* Codi Awards
+* Chance of going viral
+* Use of technology to solve industrial problems
+* Most old-school
+* Best Sound Effects
+* Most Interdisciplinary
+* Most accessible
+* Use of Arctic Theme
+* Startup idea pitch
+* Best Presentation
+* Most ambitious scope
+* Most straight-up hilarious, best conversation starter
+
+### prizes
+
+Prizes should be given in a round-robin format from a table. Award is announced, teams goes up to table, each person chooses a prize. Large prizes such as 3d printers should only be allowed 1 per team or should be distributed in some fashion unrelated to awards.
+
+Potential Categories (see previous prize list):
+    * Trinkets
+        * water bottles
+        * basic swag
+        * evernote rocket book
+        * etc
+	* Gadgets
+        * raspi
+        * camera sensors
+        * etc
+	* Toys
+        * small drones
